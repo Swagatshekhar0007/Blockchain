@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri May  5 20:51:04 2023
+
+@author: SWAGAT SHEKHAR SETH
+"""
+
+{
+    "nodes": ["http://127.0.0.1:5001",
+                "http://127.0.0.1:5002",
+                "http://127.0.0.1:5003"]
+
+
+
+}
+
